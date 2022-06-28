@@ -1,5 +1,5 @@
 /// <reference types="cypress"/>
-
+//npx cypress run --browser chrome
 describe ('Alert test demo',()=>{
 
     it('Alert Test',()=>{
