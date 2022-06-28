@@ -1,3 +1,4 @@
 {
-    "reporter": "cypress-mochawesome-reporter"
+    "reporter": "cypress-mochawesome-reporter",
+    "projectId": "1vki5i"
 }
