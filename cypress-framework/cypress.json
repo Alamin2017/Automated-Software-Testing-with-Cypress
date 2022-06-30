@@ -1,0 +1,16 @@
+{
+  "watchForFilesChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1000,
+  "viewportHeight": 600,
+  "waitForAnimation": true,
+  "defaultCommandTimeout": 6000,
+  "animationDistanceTreshold": 20,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "responseTimeout": 15000,
+  "requestTimeout": 15000,
+  "video": true,
+  "failOnStatusCode": false,
+  "projectId": "gaa2ds"
+}

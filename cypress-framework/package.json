@@ -1,0 +1,26 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Automation Framework with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run-dashboard":"cypress run --record --key cca112d5-eb69-4475-b06a-943b3382e94e",
+    "cy:update-snapshots": "cypress run --env updateSnapshots=true"
+
+  },
+  "keywords": [
+    "Automation",
+    "Framework",
+    "Cypress",
+    "Dashboard"
+  ],
+  "author": "Outis Automation",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.0.2",
+    "cypress-image-snapshot": "^3.1.1",
+    "prettier": "^1.19.1"
+  }
+}
